@@ -16,7 +16,7 @@ public class Main {
                     ImprimirCuadrado.imprimir();
                     break;
                 case "2":
-                    ImprimirHexagono.imprimir(Double.parseDouble(teclado.nextLine()));
+                    ImprimirHexagono.imprimir();
                     break;
                 case "4":
                     System.out.println("\n\t\tFIN DE PROGRAMA");
